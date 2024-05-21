@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragments.EditNotesBlankFragment">
+
+    <TextView
+        android:id="@+id/noNotesTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:text="No Notes Found Yet"
+        android:textColor="@color/text_color_auth"
+        android:gravity="center"
+        android:textStyle="italic"
+        android:textSize="20dp"
+        />
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/linearView"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="80dp"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginStart="10dp"
+                android:drawablePadding="5dp"
+                android:gravity="center"
+                android:text="Edit a Note"
+                android:textColor="@color/text_color_auth"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:drawableStartCompat="@drawable/baseline_edit_note_24"
+                app:drawableTint="@color/text_color_auth" />
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <Spinner
+                android:id="@+id/spinnerNoteTitle"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginEnd="50dp"
+                android:layout_marginTop="20dp"
+                android:autofillHints="name"
+                android:drawableStart="@drawable/baseline_edit_24"
+                android:drawablePadding="8dp"
+                android:drawableTint="@color/text_color_auth"
+                android:ems="13"
+                android:hint="Enter Note Title"
+                android:inputType="text"
+                android:padding="8dp"
+                android:textColor="@color/text_color_auth" />
+
+            <EditText
+                android:id="@+id/edtxtEditNoteDescription"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginEnd="50dp"
+                android:layout_marginTop="10sp"
+                android:drawableStart="@drawable/baseline_notes_24"
+                android:drawablePadding="8dp"
+                android:drawableTint="@color/text_color_auth"
+                android:ems="13"
+                android:hint="Enter Note Description"
+                android:inputType="textMultiLine" />
+
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cvSelectPDF"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="50dp"
+                android:layout_marginBottom="20dp"
+                app:cardCornerRadius="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="Upload New Pdf"
+                    android:textColor="@color/text_color_auth"
+                    android:textSize="18sp"
+                    app:drawableEndCompat="@drawable/baseline_cloud_upload_24"
+                    app:drawableStartCompat="@drawable/baseline_picture_as_pdf_24"
+                    app:drawableTint="@color/text_color_auth" />
+            </androidx.cardview.widget.CardView>
+            <TextView
+                android:id="@+id/txtFileName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="70dp"
+                android:layout_marginTop="-10dp"
+                android:text="No File Choosen"/>
+
+            <Button
+                android:id="@+id/btnEditNote"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="30sp"
+                android:background="@drawable/btn_rounded"
+                android:text="Edit Note"
+                android:ems="9"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnDeleteNote"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:padding="10dp"
+                android:background="@drawable/btn_rounded_red"
+                android:text="Delete Note"
+                android:ems="9"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+        </androidx.appcompat.widget.LinearLayoutCompat>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+</FrameLayout>

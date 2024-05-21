@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FindMyNotes</string>
+
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_close">Close Navigation Drawer</string>
+
+    <string name="edit_pro_underline"><u>Edit My Profile</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forgotton_password"><u>Forgotton Password?</u></string>
+    <string name="new_here"><u>New Here??</u></string>
+    <string name="register"><u>Register</u></string>
+    <string name="click_me_to_edit_uploded_note"><u>Click Me !! Edit or Delete Uploded Note</u></string>
+    <string name="report_user"><u>Report User</u></string>
+    <string name="report_note"><u>Report Note</u></string>
+    <string name="feedback_des">We value your feedback! Please take a moment to share your thoughts with us. Your feedback helps us improve and provide you with a better experience.</string>
+</resources>

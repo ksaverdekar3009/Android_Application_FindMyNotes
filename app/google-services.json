@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "129769552558",
+    "firebase_url": "https://findmynotes-d125b-default-rtdb.firebaseio.com",
+    "project_id": "findmynotes-d125b",
+    "storage_bucket": "findmynotes-d125b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129769552558:android:157c2d506060c0c9630b3f",
+        "android_client_info": {
+          "package_name": "com.example.find_my_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129769552558-7tm3ddktbvc3qngnjuebs0navdflgb8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqgXUnYrCKWxZzLZwZdQo7Eyr4vJPb1n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129769552558-7tm3ddktbvc3qngnjuebs0navdflgb8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129769552558:android:7b0d73ba59abbd5f630b3f",
+        "android_client_info": {
+          "package_name": "com.example.findmynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129769552558-7tm3ddktbvc3qngnjuebs0navdflgb8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqgXUnYrCKWxZzLZwZdQo7Eyr4vJPb1n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129769552558-7tm3ddktbvc3qngnjuebs0navdflgb8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

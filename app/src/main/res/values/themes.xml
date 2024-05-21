@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Find_my_notes" parent="Theme.Material3.DayNight.NoActionBar">
+        !-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/main_primary</item>
+        <item name="colorPrimaryVariant">@color/main_primary</item>
+        <item name="android:statusBarColor">@color/main_primary</item>
+    </style>
+
+    <style name="Theme.Find_my_notes" parent="Base.Theme.Find_my_notes" />
+
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="AppTheme.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="boxStrokeColor">@color/navDrawer</item>
+        <item name="android:textColorHint">@color/navDrawer</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profileMyNotes"
+        android:itemTextAppearance="@color/text_color_auth"
+        android:title="My Notes" />
+
+    <item
+        android:id="@+id/profileEdit"
+        android:itemTextAppearance="@color/text_color_auth"
+        android:title="Edit Profile" />
+
+</menu>

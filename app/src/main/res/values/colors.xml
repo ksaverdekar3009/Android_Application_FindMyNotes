@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_primary">#407BFF</color>
+    <color name="secondary_main">@color/main_primary</color>
+
+
+    <color name="red">#FF0000</color>
+
+    <!--Authentication-->
+    <color name="text_color_auth">@color/main_primary</color>
+    <color name="btn_color_auth">@color/main_primary</color>
+    <color name="btn_text_color_auth">@color/white</color>
+
+    <!--    Bottom Navigation-->
+    <color name="bottomNav">@color/black</color>
+
+    <!-- Navigation Drawer-->
+    <color name="navDrawer">@color/main_primary</color>
+
+    <color name="grey">#d2d2d2</color>
+
+<!--    box Stroke color-->
+    <color name="inputTextLayoutColor">@color/text_color_auth</color>
+
+</resources>
