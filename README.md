@@ -13,6 +13,11 @@ Features:
 •	Note Transaction
 •	Upload
 •	Download
+•	Like
+•	Comment
+•	Save
+• Report User
+•	Report Note
 
 For More info, please prefer - ([FIND MY NOTES APLLICATION.docx](https://github.com/ksaverdekar3009/find_my_notes/raw/main/FIND%20MY%20NOTES%20APLLICATION.docx))
 
