@@ -12,4 +12,4 @@ The primary objective of the "Find My Notes" application is to provide a platfor
 
 For More info, please prefer - ([FIND MY NOTES APLLICATION.docx](https://github.com/ksaverdekar3009/find_my_notes/blob/main/FIND%20MY%20NOTES%20APLLICATION.docx))
 
-Find APK here - ([APK Link](https://github.com/ksaverdekar3009/find_my_notes/blob/main/app/debug/app-debug.apk))
+Find APK here - ([APK Link](https://github.com/ksaverdekar3009/find_my_notes/raw/main/app/debug/app-debug.apk))
