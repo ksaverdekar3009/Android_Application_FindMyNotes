@@ -1,12 +1,3 @@
-﻿# FindMyNotesApp
-
-
-For More info, please prefer - ([FIND MY NOTES APPLICATION.docx](https://github.com/ksaverdekar3009/find_my_notes/raw/main/FIND%20MY%20NOTES%20APLLICATION.docx))
-
-App Demo Vidio - [App Demo](https://github.com/ksaverdekar3009/find_my_notes/raw/main/App%20Demo.mp4)
-
-
-
 # Find My Notes Application
 Project Description: 
 Find My Notes is a feature-rich Android application tailored for college students, designed to simplify access to academic notes and foster collaboration among peers. With a focus on ease of use and functionality, the app bridges the gap between note-sharing and organized study.
@@ -14,6 +5,7 @@ Find My Notes is a feature-rich Android application tailored for college student
 Key Highlights:
 Purpose: Facilitate seamless sharing, retrieval, and organization of study materials.
 Target Audience: College students looking for a reliable platform to manage their academic resources.
+
 Technical Specifications:
 Operating System: Android
 Programming Language: Kotlin
@@ -39,5 +31,3 @@ Additional Resources:
 Documentation: Detailed project documentation is available ([here](https://github.com/ksaverdekar3009/find_my_notes/raw/main/FIND%20MY%20NOTES%20APLLICATION.docx)).
 Demo Video: Watch the ([App Demo](https://github.com/ksaverdekar3009/find_my_notes/raw/main/App%20Demo.mp4)) to see the app in action.
 APK Download: Test the app by downloading the APK from ([this link](https://github.com/ksaverdekar3009/find_my_notes/raw/main/app/debug/app-debug.apk)].
-
-Find APK here - ([APK Link](https://github.com/ksaverdekar3009/find_my_notes/raw/main/app/debug/app-debug.apk))
