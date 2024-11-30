@@ -30,4 +30,4 @@ Integrated Firebase for real-time interactions and data syncing.
 Additional Resources:
 Documentation: Detailed project documentation is available [here](https://github.com/ksaverdekar3009/find_my_notes/raw/main/FIND%20MY%20NOTES%20APLLICATION.docx).
 Demo Video: Watch the [App Demo](https://github.com/ksaverdekar3009/find_my_notes/raw/main/App%20Demo.mp4) to see the app in action.
-APK Download: Test the app by downloading the APK from ([this link](https://github.com/ksaverdekar3009/find_my_notes/raw/main/app/debug/app-debug.apk)]).
+APK Download: Test the app by downloading the APK from [this link](https://github.com/ksaverdekar3009/find_my_notes/raw/main/app/debug/app-debug.apk).
